@@ -1,5 +1,6 @@
 # ProgrammingExamples
-Inspired by [Daniel Takeshi][1]
+Readme file Inspired by [Daniel Takeshi][1]
+
 
 As I am studying, I like to take notes in Jupyter Notebooks, why not share them?
 
