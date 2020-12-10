@@ -7,6 +7,8 @@ Contents:
 
 - [Python](#python)
   * [Python Basics](#python-basics)
+  * [Dash Basics](#dash-basics)
+  * [NLTK](#nltk)
 - [R](#r)
   * [R Basics](#r-basics)
 - [jupyter](#jupyter)
@@ -17,7 +19,13 @@ Contents:
 # Python
 
 ## Python Basics
--hello
+- [Python Basics](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/Python%20Basics)
+
+## Dash Basics
+- [Dash Basics](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/Dash%20Basics)
+
+## NLTK
+- [NLTK](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/NLTK)
 # R
 
 ## R Basics
@@ -26,5 +34,4 @@ Contents:
 
 ## jupyter Basics
 
-[1]:https://github.com/DanielTakeshi
 [1]:https://github.com/DanielTakeshi
