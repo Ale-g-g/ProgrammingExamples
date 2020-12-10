@@ -1,7 +1,11 @@
 # ProgrammingExamples
 Inspired by [Daniel Takeshi][1]
 
-Little code chunks, examples of use.
+As I am studying, I like to take notes in Jupyter Notebooks, why not share them?
+
+Any suggestions would be gratly appreciated!
+
+Little code chunks, exercises, examples of use.
 
 Contents:
 
