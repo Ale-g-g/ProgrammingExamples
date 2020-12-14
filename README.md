@@ -32,6 +32,8 @@ Contents:
 ## Dash Basics
 - [Dash Basics](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/Dash%20Basics)
 
+*Please note that these jupyter notebooks only work locally, so feel free to download and run them in your computer
+
 ## NLTK
 - [NLTK](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/NLTK)
 # R
