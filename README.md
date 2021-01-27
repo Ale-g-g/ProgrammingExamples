@@ -21,6 +21,7 @@ Contents:
   * [R Basics](#r-basics)
 - [jupyter](#jupyter)
   * [jupyter Basics](#jupyter-basics)
+  * [SQL jupyter](#SQL-jupyter)
 
 
 
@@ -45,3 +46,6 @@ Contents:
 ## jupyter Basics
 
 [1]:https://github.com/DanielTakeshi
+
+## SQL jupyter
+- [SQL jupyter](https://github.com/Ale-g-g/ProgrammingExamples/tree/main/Python/SQL%20Jupyter)
